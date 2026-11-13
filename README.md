@@ -50,6 +50,7 @@ requiere descargas!** Solo abre tu navegador web.
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
 - **Todas las Actividades Prácticas**:
+
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
