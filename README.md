@@ -21,7 +21,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/Ad5L_jmPO84?feature=shared)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
@@ -54,7 +54,7 @@ requiere descargas!** Solo abre tu navegador web.
 | Lección # | Actividad | Empezar a Programar |
 | :--- | :--- | :--- |
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/editor/usuario-anonimous/pen/01a1dc86-522e-7748-ad8f-552e3f2cec49) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
