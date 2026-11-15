@@ -1,36 +1,92 @@
-/* PASO 1: Da un color de fondo a la página (background-color) */
+/* ==========================================
+   PASO 1: Estilos generales de la página
+   ========================================== */
 body {
-    font-family: sans-serif;
-    /* Escribe tu color de fondo aquí: */
+    font-family: Arial, sans-serif;
+    /* Escribe aquí un color de fondo claro (ej. #f1f5f9) */
 
+    text-align: center;
+    padding-top: 40px;
 }
 
-/* PASO 2: Dale forma a la tarjeta (fondo blanco y bordes redondeados) */
+/* ==========================================
+   PASO 2: Diseño de la tarjeta central
+   ========================================== */
 .tarjeta-perfil {
     background-color: white;
-    padding: 20px;
-    /* Agrega border-radius aquí: */
+    width: 280px;
+    margin: 0 auto;
+    padding: 25px;
+    /* Agrega bordes redondeados con border-radius (ej. 12px) */
+
+    /* Agrega un borde simple con border (ej. 2px solid #cbd5e1) */
 
 }
 
-/* PASO 3: Haz que tu foto sea circular usando border-radius: 50% */
+/* ==========================================
+   PASO 3: Estilo de la foto de perfil
+   ========================================== */
 img {
-    width: 100px;
-    height: 100px;
-    /* Escribe border-radius aquí: */
+    width: 90px;
+    height: 90px;
+    /* Usa border-radius: 50%; para hacerla circular */
+
+    /* Agrega un borde de color a tu foto con border */
 
 }
 
-/* PASO 4: Cambia el color de tu título h1 */
+/* ==========================================
+   PASO 4: Estilo del título y textos
+   ========================================== */
 h1 {
-    /* Escribe tu color aquí: */
+    /* Cambia el color de tu título con color */
 
+    font-size: 22px;
+    margin: 10px 0;
 }
 
-/* PASO 5: Dale un estilo bonito a tu botón/enlace (a) */
+p {
+    color: #475569;
+    font-size: 14px;
+}
+
+/* ==========================================
+   PASO 5: Lista de pasatiempos
+   ========================================== */
+ul {
+    /* Quita los puntos de la lista con list-style */
+
+    padding: 0;
+    margin: 15px 0;
+}
+
+li {
+    background-color: #f8fafc;
+    margin: 5px 0;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 13px;
+    color: #334155;
+}
+
+/* ==========================================
+   PASO 6: El botón interactivo
+   ========================================== */
 a {
-    text-decoration: none;
-    padding: 10px 20px;
-    /* Agrega un color de fondo (background-color) y color de texto (color) aquí: */
+    /* Dale un color de fondo a tu botón con background-color */
+
+    color: white;
+    padding: 8px 16px;
+    /* Quita la línea fea del enlace con text-decoration */
+
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+/* Efecto cuando pasas el mouse por encima */
+a:hover {
+    /* Cambia el color de fondo a un tono más oscuro */
 
 }
