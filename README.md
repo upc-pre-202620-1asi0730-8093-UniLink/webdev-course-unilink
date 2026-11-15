@@ -41,9 +41,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=sxstvcTSeww)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+- **Comparte tu Trabajo**: [Envía tu Creación](https://docs.google.com/forms/d/e/1FAIpQLScy_acHyLdAWfZyIfYFBjbOJ5x08BVVI58kZYxwpSSxCdeerA/viewform?usp=publish-editor)
 
 ---
 
@@ -59,7 +59,7 @@ requiere descargas!** Solo abre tu navegador web.
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfca21ghWLkrz_5ewUwqECilFrT_jpHBn-a3TIdmgjjsBlGHQ/viewform?usp=header)
 - Compartir: #WebDevBeginners
   **¡Gracias por completar el curso!**
 ---
