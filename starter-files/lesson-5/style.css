@@ -1,0 +1,92 @@
+/* ==========================================
+   PASO 1: Estilos generales de la página
+   ========================================== */
+body {
+    font-family: Arial, sans-serif;
+    /* Escribe aquí un color de fondo claro (ej. #f1f5f9) */
+
+    text-align: center;
+    padding-top: 40px;
+}
+
+/* ==========================================
+   PASO 2: Diseño de la tarjeta central
+   ========================================== */
+.tarjeta-perfil {
+    background-color: white;
+    width: 280px;
+    margin: 0 auto;
+    padding: 25px;
+    /* Agrega bordes redondeados con border-radius (ej. 12px) */
+
+    /* Agrega un borde simple con border (ej. 2px solid #cbd5e1) */
+
+}
+
+/* ==========================================
+   PASO 3: Estilo de la foto de perfil
+   ========================================== */
+img {
+    width: 90px;
+    height: 90px;
+    /* Usa border-radius: 50%; para hacerla circular */
+
+    /* Agrega un borde de color a tu foto con border */
+
+}
+
+/* ==========================================
+   PASO 4: Estilo del título y textos
+   ========================================== */
+h1 {
+    /* Cambia el color de tu título con color */
+
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+p {
+    color: #475569;
+    font-size: 14px;
+}
+
+/* ==========================================
+   PASO 5: Lista de pasatiempos
+   ========================================== */
+ul {
+    /* Quita los puntos de la lista con list-style */
+
+    padding: 0;
+    margin: 15px 0;
+}
+
+li {
+    background-color: #f8fafc;
+    margin: 5px 0;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 13px;
+    color: #334155;
+}
+
+/* ==========================================
+   PASO 6: El botón interactivo
+   ========================================== */
+a {
+    /* Dale un color de fondo a tu botón con background-color */
+
+    color: white;
+    padding: 8px 16px;
+    /* Quita la línea fea del enlace con text-decoration */
+
+    border-radius: 6px;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+/* Efecto cuando pasas el mouse por encima */
+a:hover {
+    /* Cambia el color de fondo a un tono más oscuro */
+
+}

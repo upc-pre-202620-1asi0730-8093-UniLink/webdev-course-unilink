@@ -1,0 +1,75 @@
+/* Estilos generales de la página y centrado de la tarjeta */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Diseño y estructura de la tarjeta central */
+.tarjeta-perfil {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo circular para la foto de perfil */
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #3b82f6;
+}
+
+/* Estilo del título principal */
+h1 {
+    color: #1e293b;
+    font-size: 22px;
+    margin: 15px 0 10px 0;
+}
+
+/* Estilo del texto descriptivo */
+p {
+    color: #64748b;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* Limpieza de viñetas en la lista */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+li {
+    background-color: #f1f5f9;
+    margin: 6px 0;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 14px;
+    color: #334155;
+}
+
+/* Estilo del enlace convertido en un botón */
+a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+/* Efecto visual al pasar el mouse por encima del botón */
+a:hover {
+    background-color: #2563eb;
+}
