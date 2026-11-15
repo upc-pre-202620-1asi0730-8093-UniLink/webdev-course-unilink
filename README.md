@@ -14,9 +14,9 @@ requiere descargas!** Solo abre tu navegador web.
 
 ## Secuencia de la lección
 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (3:14 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/CgroMDDnNZ4?si=YPW9atbmMQOX-9xZ)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 ### Lección 2: Introducción a HTML (10 minutos)
